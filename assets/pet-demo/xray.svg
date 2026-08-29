@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <defs><radialGradient id="bg"><stop offset="0" stop-color="#59636e"/><stop offset="1" stop-color="#161b20"/></radialGradient></defs>
+  <rect width="640" height="360" fill="#11161b"/>
+  <rect x="76" y="24" width="488" height="312" rx="4" fill="url(#bg)" stroke="#6d7782"/>
+  <g fill="none" stroke="#cbd2d8" opacity=".58"><ellipse cx="322" cy="172" rx="132" ry="92" stroke-width="8"/><path d="M190 172h264M322 80v184" stroke-width="4"/><path d="M230 104q90 62 184 0M230 240q90-62 184 0" stroke-width="6"/></g>
+  <circle cx="322" cy="171" r="38" fill="#aab4bf" opacity=".35"/>
+  <text x="92" y="48" font-family="Arial, sans-serif" font-size="12" fill="#dce3e9">PET XR · DEMO</text>
+  <text x="544" y="316" text-anchor="end" font-family="Microsoft YaHei, sans-serif" font-size="11" fill="#dce3e9">模拟诊疗影像 · 不用于诊断</text>
+  <rect x="180" y="72" width="284" height="204" fill="none" stroke="#67a5ff" stroke-dasharray="8 5"/>
+</svg>

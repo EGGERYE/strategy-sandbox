@@ -1,0 +1,11 @@
+{
+  "name": "strategy-sandbox-pet-insurance",
+  "private": true,
+  "version": "0.20.0",
+  "scripts": {
+    "start": "python -m uvicorn backend.main:app --host 127.0.0.1 --port 4173",
+    "migrate": "python -m alembic upgrade head",
+    "check": "python -m py_compile backend/database.py backend/domain.py backend/main.py && node --check app-v4.js",
+    "test": "python -m pytest -q && node tests/frontend-smoke.js"
+  }
+}

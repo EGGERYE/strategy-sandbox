@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#e9edf2"/>
+  <rect x="74" y="24" width="492" height="312" rx="4" fill="#fff" stroke="#aab3bf"/>
+  <text x="320" y="62" text-anchor="middle" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#27313d">宠物门诊病历</text>
+  <text x="96" y="91" font-family="Microsoft YaHei, sans-serif" font-size="11" fill="#667085">模拟资料 · 不包含真实医疗信息</text>
+  <line x1="96" y1="106" x2="544" y2="106" stroke="#c9d0d8"/>
+  <g fill="#d8dde4">
+    <rect x="96" y="128" width="144" height="12" rx="3"/><rect x="264" y="128" width="210" height="12" rx="3"/>
+    <rect x="96" y="158" width="448" height="10" rx="3"/><rect x="96" y="180" width="408" height="10" rx="3"/>
+    <rect x="96" y="202" width="432" height="10" rx="3"/><rect x="96" y="238" width="94" height="11" rx="3"/>
+    <rect x="96" y="262" width="448" height="10" rx="3"/><rect x="96" y="284" width="370" height="10" rx="3"/>
+  </g>
+  <rect x="88" y="116" width="466" height="104" fill="none" stroke="#2f6fdd" stroke-dasharray="6 4"/>
+  <text x="554" y="235" text-anchor="end" font-family="Microsoft YaHei, sans-serif" font-size="10" fill="#2f6fdd">OCR区域 03</text>
+</svg>

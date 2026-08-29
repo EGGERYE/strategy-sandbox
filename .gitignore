@@ -1,0 +1,10 @@
+# 本地运行数据：仅提交可复现的演示数据库，不提交上传材料或其他数据库副本。
+data/*
+!data/strategy_sandbox.db
+data/uploads/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.tmp-spreadsheet-build/
+outputs/**/*.inspect.ndjson

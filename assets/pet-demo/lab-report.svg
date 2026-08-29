@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#e8edf0"/>
+  <rect x="70" y="28" width="500" height="304" fill="#fff" stroke="#abb6bd"/>
+  <text x="320" y="61" text-anchor="middle" font-family="Microsoft YaHei, sans-serif" font-size="19" fill="#27313d">检验报告</text>
+  <text x="92" y="84" font-family="Microsoft YaHei, sans-serif" font-size="10" fill="#667085">模拟资料 · 检验数值已去除</text>
+  <g stroke="#cbd2d8" fill="none"><rect x="92" y="101" width="456" height="184"/><line x1="92" y1="133" x2="548" y2="133"/><line x1="92" y1="171" x2="548" y2="171"/><line x1="92" y1="209" x2="548" y2="209"/><line x1="92" y1="247" x2="548" y2="247"/><line x1="300" y1="101" x2="300" y2="285"/><line x1="420" y1="101" x2="420" y2="285"/></g>
+  <g font-family="Microsoft YaHei, sans-serif" font-size="11" fill="#5e6873"><text x="108" y="122">检验项目</text><text x="323" y="122">结果</text><text x="444" y="122">参考区间</text><text x="108" y="157">血液常规</text><text x="108" y="195">生化检查</text><text x="108" y="233">炎症指标</text><text x="108" y="271">其他项目</text></g>
+  <rect x="100" y="140" width="438" height="101" fill="none" stroke="#2f6fdd" stroke-dasharray="6 4"/>
+</svg>
